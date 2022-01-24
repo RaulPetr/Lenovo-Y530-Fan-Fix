@@ -10,3 +10,6 @@
  - The batch file reads system data every 5 seconds and :
    - If the temp is over 80, let the system control fan speed
    - If the temp is under 55 and the fans are off, lock them in the off state
+  
+## The other files (non-service)
+ - Run them by double clicking, they do what their names suggest

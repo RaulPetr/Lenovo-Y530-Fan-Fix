@@ -1,4 +1,7 @@
-# Lenovo-Y530-Fan-Fix
+# Lenovo Y530 FanFix
+  
+  This repo contains batch files designed to combat Lenovo's bad fan curve design for the Legion Y530.
+  Using this, the fans will no longer start spinning while on battery or while just browsing the internet.
 
 ## Requirements
  - These files will work on Windows 7/10/11

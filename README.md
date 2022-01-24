@@ -1,0 +1,1 @@
+# Lenovo-Y530-Fan-Fix

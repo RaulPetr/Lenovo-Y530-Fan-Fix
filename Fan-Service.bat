@@ -2,7 +2,6 @@
 
 
 :loop
-    @REM SET state = %%(ec-probe.exe read 171)
 	for /f "tokens=*" %%a in ('ec-probe.exe read 171') do set state=%%a
     SET state= %state:~0,1%
 	for /f "tokens=*" %%a in ('ec-probe.exe read 0x56') do set temp=%%a
